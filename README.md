@@ -252,8 +252,8 @@
 | | Achievement | Details |
 |:---:|:---|:---|
 | 🥇 | **GATE DA 2026** | AIR **10584** — All India Rank in Data Science & AI |
-| 🌍 | **ISF Junicorn Summit, Dubai** | Selected to represent AI/ML innovation at Asia's Premier Summit |
-| 🏛️ | **Mumbai Tech Week** | Attended World Convention Centre — Asia's Largest AI Summit |
+| 🌍 | **ISF Junicorn Summit, Dubai** | Our Team Selected to represent our Project "UrbanFlow AI" at ISF Junicorn Summit Dubai |
+| 🏛️ | **Mumbai Tech Week** | Attended Asia's Largest AI Summit Jio World Convention Center Mumbai |
 | 💡 | **COEP MindSpark Hackathon** | Qualified First Round of prestigious 24-Hour Hackathon |
 | 🔬 | **Genathon — IIT Nagpur** | Participant in Biotech × AI Innovation Challenge |
 | 🛡️ | **5+ National Hackathons** | Consistent hands-on competitive problem solving |
