@@ -378,13 +378,14 @@ I believe the future of AI is not just about **what** models can do, but about m
 
 ### 💻 Competitive Coding
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sayalijadhav162005/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]
+(https://leetcode.com/u/jsaya/)
 &nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-My%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sayalijadhav16)
+[![CodeChef](https://img.shields.io/badge/CodeChef-My%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sayali_07019)
 &nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-My%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sayalijadhav162005/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-My%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sayalijadhq7um)
 &nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-My%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/sayalijadhav1620)
+[![HackerRank](https://img.shields.io/badge/HackerRank-My%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/sayalij1609)
 
 <br/>
 
