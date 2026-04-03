@@ -378,8 +378,7 @@ I believe the future of AI is not just about **what** models can do, but about m
 
 ### 💻 Competitive Coding
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]
-(https://leetcode.com/u/jsaya/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jsaya/)
 &nbsp;
 [![CodeChef](https://img.shields.io/badge/CodeChef-My%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sayali_07019)
 &nbsp;
