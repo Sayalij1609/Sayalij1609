@@ -1,46 +1,33 @@
 <div align="center">
 
-<!-- MAIN ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,30:1a0533,60:3b0764,100:6d28d9&height=250&section=header&text=Sayali%20Bharat%20Jadhav&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Builder%20of%20Intelligent%20Systems&descAlignY=62&descColor=c4b5fd&stroke=a78bfa&strokeWidth=3"/>
 
-<!-- AI NEURAL NETWORK ANIMATION STRIP -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a1a,100:1a0533&height=3"/>
-
-<!-- ANIMATED TYPING BANNER -->
-<br/>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=800&height=45&lines=Third-Year+AI+%26+ML+Engineer+%40+RCPIT+Shirpur+%F0%9F%8E%93;ISF+Junicorn+Summit+Dubai+%7C+GATE+DA+2026+AIR+10584+%F0%9F%8F%86;LLMs+%7C+XAI+%7C+Agentic+AI+%7C+Computer+Vision+%F0%9F%A4%96;Building+Systems+That+Think+%26+Explain+Themselves+%F0%9F%9A%80;Generative+AI+%7C+RAG+%7C+Multi-Agent+Systems+%F0%9F%94%AC" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<!-- AI THEMED VISUAL BANNER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-
-<br/><br/>
-
-<!-- STATUS BADGES ROW -->
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square&logo=statuspage&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-Generative%20AI%20%26%20Agentic%20Systems-7c3aed?style=flat-square&logo=openai&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/CGPA-9.31%2F10-gold?style=flat-square&logo=googlescholar&logoColor=black"/>
-&nbsp;
-<img src="https://img.shields.io/badge/GATE%20DA%202026-AIR%2010584-FFD700?style=flat-square&logoColor=black"/>
-
-<br/><br/>
-
-<!-- CONTACT BADGES -->
-[![Gmail](https://img.shields.io/badge/Gmail-sayalijadhav162005%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sayalijadhav162005@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sayali--jadhav-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayali-jadhav-b4263827b)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Sayalij1609-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sayalij1609)
-&nbsp;
-![Visitor Count](https://komarev.com/ghpvc/?username=Sayalij1609&color=7c3aed&style=flat-square&label=Profile+Views)
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
 
 <br/>
 
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20Opportunities-22c55e?style=for-the-badge&logoColor=white"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%A4%96%20Focus-Generative%20AI%20%26%20Agentic%20Systems-7c3aed?style=for-the-badge&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%8F%85%20CGPA-9.31%20%2F%2010-FFD700?style=for-the-badge&logoColor=black"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%8E%AF%20GATE%20DA%202026-AIR%2010584-f59e0b?style=for-the-badge&logoColor=black"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%8E%93%20Batch-2023%20%E2%80%93%202027-a855f7?style=for-the-badge&logoColor=white"/>
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-sayalijadhav162005-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayalijadhav162005@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayali-jadhav-b4263827b)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Sayalij1609-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sayalij1609)
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Sayalij1609&color=7c3aed&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -50,15 +37,11 @@
 
 <img align="right" width="270" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-<br/>
-
 **`Sayali Bharat Jadhav`** — AI/ML Engineer & Full-Stack Builder
 
 🎓 &nbsp;B.Tech in **Artificial Intelligence & Machine Learning**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R. C. Patel Autonomous Institute of Technology, Shirpur
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Batch: 2023 – 2027` &nbsp;|&nbsp; `CGPA: 9.31 / 10`
-
-<br/>
 
 🔥 &nbsp;**What drives me:**
 - 🤖 Generative AI & Large Language Models
@@ -67,15 +50,9 @@
 - 👁️ Computer Vision
 - 🔐 AI for Cybersecurity
 
-<br/>
-
-🚧 &nbsp;**Currently building:**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`MedAgentix AI` — Multi-agent clinical decision support system
-
-<br/>
+🚧 &nbsp;**Currently building:** &nbsp;`MedAgentix AI` — Multi-agent clinical decision support system
 
 💡 &nbsp;**My philosophy:**
-
 > *"Don't just use AI. Build with it. Break it. Rebuild it better."*
 
 <br clear="right"/>
@@ -98,7 +75,6 @@
 
 ### 🚦 UrbanFlow AI
 **ISF Junicorn Summit, Dubai**
-
 > AI-driven traffic signal control using YOLO + Double DQN Reinforcement Learning for real-time adaptive signal timing.
 
 ![YOLO](https://img.shields.io/badge/YOLO-00FFAB?style=flat-square&logoColor=black)
@@ -111,7 +87,6 @@
 
 ### 🏥 MedAgentix AI
 **Present — Active Project**
-
 > Multi-agent clinical decision support system using LLMs + RAG + XAI for transparent, explainable medical recommendations.
 
 ![LLMs](https://img.shields.io/badge/LLMs-f59e0b?style=flat-square&logoColor=black)
@@ -126,7 +101,6 @@
 
 ### 🕵️ XAI Social Engineering Simulator
 **Feb 2026**
-
 > AI-powered simulation platform to model, detect, and explain social engineering attacks. Built with Flask, Ollama, scikit-learn + XAI insights.
 
 ![XAI](https://img.shields.io/badge/XAI-e11d48?style=flat-square&logoColor=white)
@@ -139,7 +113,6 @@
 
 ### 🖐️ Hand Gesture Desktop Controller
 **June 2025**
-
 > Real-time gesture recognition for desktop control — scroll, click, app switching via webcam using MediaPipe + OpenCV.
 
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logoColor=white)
@@ -157,7 +130,6 @@
 <div align="center">
 
 ### 🖥️ Languages
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -166,7 +138,6 @@
 ---
 
 ### 🧠 AI / ML / Generative AI
-
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-7c3aed?style=for-the-badge&logo=openai&logoColor=white)
@@ -182,7 +153,6 @@
 ---
 
 ### 📦 Libraries & Frameworks
-
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -200,7 +170,6 @@
 ---
 
 ### 🗄️ Databases
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Vector%20DBs-7c3aed?style=for-the-badge&logo=pinecone&logoColor=white)
@@ -208,7 +177,6 @@
 ---
 
 ### 🛠️ Tools & Technologies
-
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
@@ -222,7 +190,6 @@
 ---
 
 ### 🧮 Core CS Concepts
-
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-6d28d9?style=for-the-badge&logoColor=white)
 ![OS](https://img.shields.io/badge/Operating%20Systems-374151?style=for-the-badge&logo=linux&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-0369a1?style=for-the-badge&logo=databricks&logoColor=white)
@@ -236,11 +203,11 @@
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sayalij1609&theme=midnight-purple&hide_border=true" height="175"/>
+<img src="https://streak-stats.demolab.com?user=Sayalij1609&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888" width="60%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayalij1609&theme=react-dark&hide_border=true&color=a78bfa&line=7c3aed&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayalij1609&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed" width="95%"/>
 </div>
 
 ---
@@ -257,8 +224,6 @@
 | 💡 | **COEP MindSpark Hackathon** | Qualified First Round of prestigious 24-Hour Hackathon |
 | 🔬 | **Genathon — IIT Nagpur** | Participant in Biotech × AI Innovation Challenge |
 | 🛡️ | **5+ National Hackathons** | Consistent hands-on competitive problem solving |
-
-<br/>
 
 [![GATE](https://img.shields.io/badge/GATE%20DA%202026-AIR%2010584-FFD700?style=for-the-badge&logoColor=black)](https://gate2026.iitr.ac.in/)
 &nbsp;
@@ -323,8 +288,6 @@ Department publications, content creation, knowledge sharing across the AI/ML st
 &nbsp;
 [![Hackathons](https://img.shields.io/badge/Hackathons%20%26%20Challenges-Open-f59e0b?style=for-the-badge&logo=devpost&logoColor=black)](#)
 
-<br/>
-
 > #### 📬 *Let's build something impactful together — reach out anytime!*
 
 </div>
@@ -362,7 +325,7 @@ I believe the future of AI is not just about **what** models can do, but about m
 
 ---
 
-
+## 🌐 Find Me Across The Web
 
 <div align="center">
 
@@ -374,8 +337,6 @@ I believe the future of AI is not just about **what** models can do, but about m
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Drop%20Me%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayalijadhav162005@gmail.com)
 
-<br/>
-
 ### 💻 Competitive Coding
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jsaya/)
@@ -386,8 +347,6 @@ I believe the future of AI is not just about **what** models can do, but about m
 &nbsp;
 [![HackerRank](https://img.shields.io/badge/HackerRank-My%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/sayalij1609)
 
-<br/>
-
 ---
 
 <picture>
@@ -396,13 +355,9 @@ I believe the future of AI is not just about **what** models can do, but about m
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-<br/><br/>
-
 > ### *"I don't just study AI — I build with it, break it, and make it useful."*
 > #### `— Sayali Bharat Jadhav`
 
 </div>
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:7c3aed&height=130&section=footer&text=Thanks%20for%20visiting!%20Star%20something%20if%20you%20liked%20it&fontSize=18&fontColor=c4b5fd&animation=twinkling&fontAlignY=65"/>
