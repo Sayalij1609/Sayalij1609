@@ -8,13 +8,9 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  🧬  Third-Year AI & ML Engineering Student  @  RCPIT Shirpur        ║
-║  🌍  ISF Junicorn Summit Dubai  •  GATE DA 2026 AIR 10584            ║
-║  🔬  Building with LLMs, XAI, Agentic AI, Computer Vision           ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=🧬+AI+%26+ML+Engineer+%40+RCPIT+Shirpur;🌍+ISF+Junicorn+Summit%2C+Dubai+%7C+GATE+DA+2026+AIR+10584;🔬+LLMs+%7C+XAI+%7C+Agentic+AI+%7C+Computer+Vision;🚀+Building+Systems+That+Think+%26+Explain+Themselves" alt="Typing SVG" /></a>
+
+<br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-sayalijadhav162005-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sayalijadhav162005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sayali--jadhav-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayali-jadhav-b4263827b)
@@ -25,7 +21,7 @@
 
 ---
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ## `> whoami`
 
@@ -52,6 +48,14 @@ philosophy: >
 ```
 
 <br clear="right"/>
+
+<div align="center">
+
+| 🎓 Education | 📍 Location | 🏅 CGPA | 🎯 Focus |
+|:---:|:---:|:---:|:---:|
+| B.Tech AI & ML @ RCPIT | Shirpur, Maharashtra | **9.31 / 10** | Generative AI · XAI · Agentic Systems |
+
+</div>
 
 ---
 
@@ -166,45 +170,104 @@ philosophy: >
 
 ---
 
-## 🏆 Milestones
-
-```
- ┌─────────────────────────────────────────────────────────────────────┐
- │                                                                       │
- │  🥇  GATE DA 2026              →  AIR 10584                          │
- │  🌍  ISF Junicorn Summit       →  Selected for Dubai AI Summit       │
- │  🏛️  Mumbai Tech Week          →  Asia's Largest AI Summit           │
- │  💡  COEP MindSpark Hackathon  →  Qualified First Round (24-hr)      │
- │  🔬  Genathon by IIT Nagpur    →  Participant                        │
- │  🛡️  5+ National Hackathons    →  Hands-on problem solving           │
- │                                                                       │
- └─────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📋 Experience
-
-| Period | Role | Organization |
-|--------|------|-------------|
-| `Apr 2025 – Jul 2025` | Infosys Springboard Pragati — Cohort 5 | Infosys |
-| `1 Month` | Core & Advanced Java Backend Internship | R3sys |
-| `Ongoing` | Co-Head, Data Polaris Club | RCPIT |
-| `Ongoing` | Member, Editorial & Magazine Committee | AIML Dept., RCPIT |
-
----
-
-## 🌐 Let's Connect
+## 🏆 Milestones & Achievements
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayali-jadhav-b4263827b)
-[![Email](https://img.shields.io/badge/Drop_Me_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayalijadhav162005@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sayalij1609)
+<table>
+<tr>
+  <td align="center" width="33%">
+    <img src="https://img.shields.io/badge/GATE%20DA%202026-AIR%2010584-FFD700?style=for-the-badge&logo=googlescholar&logoColor=black"/>
+    <br/><sub><b>All India Rank in Data Science & AI</b></sub>
+  </td>
+  <td align="center" width="33%">
+    <img src="https://img.shields.io/badge/ISF%20Junicorn%20Summit-Dubai%20🌍-7c3aed?style=for-the-badge&logo=airplayvideo&logoColor=white"/>
+    <br/><sub><b>Selected for Asia's Premier AI Summit</b></sub>
+  </td>
+  <td align="center" width="33%">
+    <img src="https://img.shields.io/badge/Mumbai%20Tech%20Week-World%20Convention%20Centre-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+    <br/><sub><b>Asia's Largest AI Summit</b></sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <img src="https://img.shields.io/badge/COEP%20MindSpark-24Hr%20Hackathon%20✅-10b981?style=for-the-badge&logo=lightning&logoColor=white"/>
+    <br/><sub><b>Qualified First Round</b></sub>
+  </td>
+  <td align="center" width="33%">
+    <img src="https://img.shields.io/badge/Genathon-IIT%20Nagpur%20🔬-e11d48?style=for-the-badge&logo=experiment&logoColor=white"/>
+    <br/><sub><b>Biotech × AI Hackathon</b></sub>
+  </td>
+  <td align="center" width="33%">
+    <img src="https://img.shields.io/badge/National%20Hackathons-5%2B%20Participated-f59e0b?style=for-the-badge&logo=trophy&logoColor=black"/>
+    <br/><sub><b>Hands-on Competitive Problem Solving</b></sub>
+  </td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💼 Experience & Activities
+
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🔷  INFOSYS SPRINGBOARD PRAGATI  ·  Cohort 5         Apr – Jul 2025
+      Guided learning on AI/ML concepts through structured mentorship
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🔷  R3SYS TRAINING & INTERNSHIP  ·  Backend Dev          1 Month
+      Core & Advanced Java · Spring Core · OOP · Backend Architecture
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🟣  CO-HEAD  ·  DATA POLARIS CLUB  ·  RCPIT              Ongoing
+      ML workshops · Peer mentorship · Community building in AI/ML
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🟣  MEMBER  ·  EDITORIAL & MAGAZINE COMMITTEE  ·  AIML  Ongoing
+      Content creation · Department publications · Knowledge sharing
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+---
+
+## 🌐 Find Me Across The Web
+
+<div align="center">
+
+### 💬 Social & Professional
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayali-jadhav-b4263827b)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20%40Sayalij1609-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sayalij1609)
+[![Gmail](https://img.shields.io/badge/Gmail-Drop%20Me%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayalijadhav162005@gmail.com)
 
 <br/>
 
-> *"I don't just study AI — I build with it, break it, and make it useful."*
+### 💻 Competitive Coding
+<br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sayalijadhav162005/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-My%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sayalijadhav16)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-My%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sayalijadhav162005/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-My%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/sayalijadhav1620)
+
+<br/>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+<br/>
+
+> ### *"I don't just study AI — I build with it, break it, and make it useful."*
+> #### `— Sayali Bharat Jadhav`
 
 </div>
 
