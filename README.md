@@ -1,19 +1,25 @@
 <div align="center">
 
+<!-- AI neural network / futuristic technology animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=90&text=✦%20SAYALI%20BHARAT%20JADHAV%20✦&fontSize=36&fontColor=fce7f3&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%E2%80%82%7C%E2%80%82%20Building%20Intelligent%20Systems%20with%20Purpose&descSize=16&descAlignY=72&descColor=e9b8d7&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20Opportunities-22c55e?style=for-the-badge&logoColor=white"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%A4%96%20Focus-Generative%20AI%20%26%20Agentic%20Systems-7c3aed?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%A4%96%20Focus-Generative%20AI%20%26%20Agentic%20Systems-c026d3?style=for-the-badge&logoColor=white"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/%F0%9F%8F%85%20CGPA-9.31%20%2F%2010-FFD700?style=for-the-badge&logoColor=black"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%8E%AF%20GATE%20DA%202026-AIR%2010584-f59e0b?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/%F0%9F%8E%AF%20GATE%20DA%202026-AIR%2010584-f472b6?style=for-the-badge&logoColor=black"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/%F0%9F%8E%93%20Batch-2023%20%E2%80%93%202027-a855f7?style=for-the-badge&logoColor=white"/>
 
@@ -21,21 +27,21 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-sayalijadhav162005-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayalijadhav162005@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayali-jadhav-b4263827b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sayali--jadhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayali-jadhav-b4263827b)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Sayalij1609-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sayalij1609)
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Sayalij1609&color=7c3aed&style=for-the-badge&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=Sayalij1609&color=c026d3&style=for-the-badge&label=Profile+Views)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<img align="right" width="270" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## 👩‍💻 `whoami`
 
 **`Sayali Bharat Jadhav`** — AI/ML Engineer & Full-Stack Builder
 
@@ -50,7 +56,8 @@
 - 👁️ Computer Vision
 - 🔐 AI for Cybersecurity
 
-🚧 &nbsp;**Currently building:** &nbsp;`MedAgentix AI` — Multi-agent clinical decision support system
+🚧 &nbsp;**Currently building:** &nbsp;`MedAgentix AI`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Multi-agent clinical decision support system
 
 💡 &nbsp;**My philosophy:**
 > *"Don't just use AI. Build with it. Break it. Rebuild it better."*
@@ -59,7 +66,7 @@
 
 <div align="center">
 
-| &nbsp;&nbsp;&nbsp;&nbsp;📌 Institute&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;📍 Location&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;🏅 CGPA&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;📅 Batch&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;🎯 Domain&nbsp;&nbsp;&nbsp;&nbsp; |
+| 📌 Institute | 📍 Location | 🏅 CGPA | 📅 Batch | 🎯 Domain |
 |:---:|:---:|:---:|:---:|:---:|
 | RCPIT, Shirpur | Maharashtra, India | **9.31 / 10** | 2023 – 2027 | AI · ML · Gen AI |
 
@@ -74,11 +81,12 @@
 <td width="50%" valign="top">
 
 ### 🚦 UrbanFlow AI
-**ISF Junicorn Summit, Dubai**
+**ISF Junicorn Summit, Dubai** 🌍
+
 > AI-driven traffic signal control using YOLO + Double DQN Reinforcement Learning for real-time adaptive signal timing.
 
 ![YOLO](https://img.shields.io/badge/YOLO-00FFAB?style=flat-square&logoColor=black)
-![DQN](https://img.shields.io/badge/DQN-7c3aed?style=flat-square&logoColor=white)
+![DQN](https://img.shields.io/badge/DQN-c026d3?style=flat-square&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -86,7 +94,8 @@
 <td width="50%" valign="top">
 
 ### 🏥 MedAgentix AI
-**Present — Active Project**
+**Active — Flagship Project** 🔬
+
 > Multi-agent clinical decision support system using LLMs + RAG + XAI for transparent, explainable medical recommendations.
 
 ![LLMs](https://img.shields.io/badge/LLMs-f59e0b?style=flat-square&logoColor=black)
@@ -100,7 +109,8 @@
 <td width="50%" valign="top">
 
 ### 🕵️ XAI Social Engineering Simulator
-**Feb 2026**
+**Feb 2026** 🛡️
+
 > AI-powered simulation platform to model, detect, and explain social engineering attacks. Built with Flask, Ollama, scikit-learn + XAI insights.
 
 ![XAI](https://img.shields.io/badge/XAI-e11d48?style=flat-square&logoColor=white)
@@ -112,7 +122,8 @@
 <td width="50%" valign="top">
 
 ### 🖐️ Hand Gesture Desktop Controller
-**June 2025**
+**June 2025** 🎮
+
 > Real-time gesture recognition for desktop control — scroll, click, app switching via webcam using MediaPipe + OpenCV.
 
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logoColor=white)
@@ -135,12 +146,10 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
-
 ### 🧠 AI / ML / Generative AI
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-7c3aed?style=for-the-badge&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-c026d3?style=for-the-badge&logo=openai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-f59e0b?style=for-the-badge&logo=huggingface&logoColor=black)
 ![NLP](https://img.shields.io/badge/NLP-10b981?style=for-the-badge&logo=spacy&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -149,8 +158,6 @@
 ![RAG](https://img.shields.io/badge/RAG-8b5cf6?style=for-the-badge&logoColor=white)
 ![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-f97316?style=for-the-badge&logoColor=white)
 ![Image Processing](https://img.shields.io/badge/Image%20Processing-06b6d4?style=for-the-badge&logo=opencv&logoColor=white)
-
----
 
 ### 📦 Libraries & Frameworks
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -167,14 +174,10 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
----
-
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector%20DBs-7c3aed?style=for-the-badge&logo=pinecone&logoColor=white)
-
----
+![Vector DB](https://img.shields.io/badge/Vector%20DBs-c026d3?style=for-the-badge&logo=pinecone&logoColor=white)
 
 ### 🛠️ Tools & Technologies
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -183,11 +186,8 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![API Integration](https://img.shields.io/badge/API%20Integration-0ea5e9?style=for-the-badge&logo=postman&logoColor=white)
-
----
 
 ### 🧮 Core CS Concepts
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-6d28d9?style=for-the-badge&logoColor=white)
@@ -198,16 +198,18 @@
 
 ---
 
-## 📈 GitHub Stats
-
-
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Sayalij1609&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888" width="60%"/>
+
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayalij1609&theme=material-palenight&hide_border=true&background=0d0d1a&ring=c026d3&fire=f472b6&currStreakLabel=c084fc&sideLabels=c084fc&dates=888" />
+
 </div>
 
+
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayalij1609&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayalij1609&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=c084fc&line=c026d3&point=f472b6&area=true&area_color=c026d3" width="95%"/>
 </div>
 
 ---
@@ -216,18 +218,66 @@
 
 <div align="center">
 
-| | Achievement | Details |
-|:---:|:---|:---|
-| 🥇 | **GATE DA 2026** | AIR **10584** — All India Rank in Data Science & AI |
-| 🌍 | **ISF Junicorn Summit, Dubai** | Our Team Selected to represent our Project "UrbanFlow AI" at ISF Junicorn Summit Dubai |
-| 🏛️ | **Mumbai Tech Week** | Attended Asia's Largest AI Summit Jio World Convention Center Mumbai |
-| 💡 | **COEP MindSpark Hackathon** | Qualified First Round of prestigious 24-Hour Hackathon |
-| 🔬 | **Genathon — IIT Nagpur** | Participant in Biotech × AI Innovation Challenge |
-| 🛡️ | **5+ National Hackathons** | Consistent hands-on competitive problem solving |
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🥇
+**GATE DA 2026**
+`AIR 10584`
+All India Rank — Data Science & AI
+
+</td>
+<td align="center" width="33%">
+
+### 🌍
+**ISF Junicorn Summit**
+`Dubai 2025`
+International selection — UrbanFlow AI
+
+</td>
+<td align="center" width="33%">
+
+### 🏛️
+**Mumbai Tech Week**
+`Jio World Centre`
+Asia's Largest AI Summit — Attended
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### 💡
+**COEP MindSpark**
+`Hackathon`
+Qualified Prestigious 24-Hour Challenge
+
+</td>
+<td align="center" width="33%">
+
+### 🔬
+**Genathon**
+`IIT Nagpur`
+Biotech × AI Innovation Participant
+
+</td>
+<td align="center" width="33%">
+
+### 🛡️
+**5+ Hackathons**
+`National Level`
+Consistent Competitive Problem Solver
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 [![GATE](https://img.shields.io/badge/GATE%20DA%202026-AIR%2010584-FFD700?style=for-the-badge&logoColor=black)](https://gate2026.iitr.ac.in/)
 &nbsp;
-[![ISF](https://img.shields.io/badge/ISF%20Junicorn%20Summit-Dubai-7c3aed?style=for-the-badge&logoColor=white)](#)
+[![ISF](https://img.shields.io/badge/ISF%20Junicorn%20Summit-Dubai-c026d3?style=for-the-badge&logoColor=white)](#)
 &nbsp;
 [![MindSpark](https://img.shields.io/badge/COEP%20MindSpark-Hackathon%20Qualified-10b981?style=for-the-badge&logoColor=white)](#)
 &nbsp;
@@ -247,12 +297,14 @@
 
 **Infosys Springboard Pragati** &nbsp;`Cohort 5`
 `Apr 2025 – Jul 2025`
+
 Structured AI/ML mentorship program with guided project-based learning and industry exposure.
 
 ---
 
 **R3sys Training & Internship** &nbsp;`Backend Developer`
 `1 Month`
+
 Core & Advanced Java · Spring Core · OOP principles · Backend architecture and development.
 
 </td>
@@ -262,12 +314,14 @@ Core & Advanced Java · Spring Core · OOP principles · Backend architecture an
 
 **Co-Head — Data Polaris Club** &nbsp;`RCPIT`
 `Ongoing`
+
 Organizing ML workshops, peer mentorship sessions, and community-driven AI/ML learning initiatives.
 
 ---
 
 **Member — Editorial & Magazine Committee** &nbsp;`AIML Dept.`
 `Ongoing`
+
 Department publications, content creation, knowledge sharing across the AI/ML student community.
 
 </td>
@@ -276,25 +330,7 @@ Department publications, content creation, knowledge sharing across the AI/ML st
 
 ---
 
-## 📌 Open to Opportunities
-
-<div align="center">
-
-[![AI/ML Internships](https://img.shields.io/badge/AI%2FML%20Internships-Open-7c3aed?style=for-the-badge&logo=briefcase&logoColor=white)](#)
-&nbsp;
-[![GenAI Projects](https://img.shields.io/badge/Generative%20AI%20Projects-Open-0ea5e9?style=for-the-badge&logo=openai&logoColor=white)](#)
-&nbsp;
-[![Research](https://img.shields.io/badge/Research%20Collaborations-Open-10b981?style=for-the-badge&logo=academia&logoColor=white)](#)
-&nbsp;
-[![Hackathons](https://img.shields.io/badge/Hackathons%20%26%20Challenges-Open-f59e0b?style=for-the-badge&logo=devpost&logoColor=black)](#)
-
-> #### 📬 *Let's build something impactful together — reach out anytime!*
-
-</div>
-
----
-
-## 🔮 Future Vision
+## 🔮 Vision & Goals
 
 <table>
 <tr>
@@ -322,6 +358,24 @@ I believe the future of AI is not just about **what** models can do, but about m
 </td>
 </tr>
 </table>
+
+---
+
+## 📌 Open to Opportunities
+
+<div align="center">
+
+[![AI/ML Internships](https://img.shields.io/badge/AI%2FML%20Internships-Open-c026d3?style=for-the-badge&logo=briefcase&logoColor=white)](#)
+&nbsp;
+[![GenAI Projects](https://img.shields.io/badge/Generative%20AI%20Projects-Open-0ea5e9?style=for-the-badge&logo=openai&logoColor=white)](#)
+&nbsp;
+[![Research](https://img.shields.io/badge/Research%20Collaborations-Open-10b981?style=for-the-badge&logo=academia&logoColor=white)](#)
+&nbsp;
+[![Hackathons](https://img.shields.io/badge/Hackathons%20%26%20Challenges-Open-f59e0b?style=for-the-badge&logo=devpost&logoColor=black)](#)
+
+> #### 📬 *Let's build something impactful together — reach out anytime!*
+
+</div>
 
 ---
 
@@ -355,9 +409,11 @@ I believe the future of AI is not just about **what** models can do, but about m
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
 </picture>
 
+<br/>
+
 > ### *"I don't just study AI — I build with it, break it, and make it useful."*
 > #### `— Sayali Bharat Jadhav`
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:7c3aed&height=130&section=footer&text=Thanks%20for%20visiting!%20Star%20something%20if%20you%20liked%20it&fontSize=18&fontColor=c4b5fd&animation=twinkling&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0030,50:9b059b,100:f472b6&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8%20Star%20something%20if%20you%20liked%20it&fontSize=18&fontColor=fce7f3&animation=twinkling&fontAlignY=65"/>
