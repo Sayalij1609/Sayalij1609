@@ -1,76 +1,47 @@
 <div align="center">
 
-<!-- AI neural network / futuristic technology animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500"/>
+
+<h2>Hey there🖐️! I'm Sayali Jadhav &nbsp;·&nbsp; Welcome to my GitHub Profile.</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=750&height=40&lines=AI+%2F+ML+Engineer+%7C+Generative+AI+%7C+Agentic+Systems;Building+intelligent+systems+that+are+transparent+%26+trustworthy;Currently+building+MedAgentix+AI+%7C+Open+to+Opportunities" alt="Typing" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayali-jadhav-b4263827b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sayalij1609)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sayalijadhav162005@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/jsaya/)
+&nbsp;&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Sayalij1609&color=c026d3&style=flat-square&label=Profile+Views)
 
 </div>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=90&text=✦%20SAYALI%20BHARAT%20JADHAV%20✦&fontSize=36&fontColor=fce7f3&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%E2%80%82%7C%E2%80%82%20Building%20Intelligent%20Systems%20with%20Purpose&descSize=16&descAlignY=72&descColor=e9b8d7&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20Opportunities-22c55e?style=for-the-badge&logoColor=white"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%A4%96%20Focus-Generative%20AI%20%26%20Agentic%20Systems-c026d3?style=for-the-badge&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/%F0%9F%8F%85%20CGPA-9.31%20%2F%2010-FFD700?style=for-the-badge&logoColor=black"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%8E%AF%20GATE%20DA%202026-AIR%2010584-f472b6?style=for-the-badge&logoColor=black"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%8E%93%20Batch-2023%20%E2%80%93%202027-a855f7?style=for-the-badge&logoColor=white"/>
-
-<br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-sayalijadhav162005-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayalijadhav162005@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sayali--jadhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayali-jadhav-b4263827b)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Sayalij1609-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sayalij1609)
-
-<br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Sayalij1609&color=c026d3&style=for-the-badge&label=Profile+Views)
-
-</div>
 
 ---
+## 👩‍💻About Me
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="360" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e"/>
 
-## 👩‍💻 `whoami`
+I'm a B.Tech student specializing in Artificial Intelligence & Machine Learning at R. C. Patel Institute of Technology, Shirpur (Batch 2023–2027), with a CGPA of 9.31/10.
 
-**`Sayali Bharat Jadhav`** — AI/ML Engineer & Full-Stack Builder
+I build AI systems that are not just performant, but interpretable and trustworthy — my work spans Generative AI, Agentic Architectures, and Explainable AI. I'm currently developing **MedAgentix AI**, a multi-agent clinical decision support system that combines LLMs, RAG pipelines, and XAI to deliver transparent, explainable medical recommendations.
 
-🎓 &nbsp;B.Tech in **Artificial Intelligence & Machine Learning**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R. C. Patel Autonomous Institute of Technology, Shirpur
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Batch: 2023 – 2027` &nbsp;|&nbsp; `CGPA: 9.31 / 10`
+**🎯Areas of focus:**
 
-🔥 &nbsp;**What drives me:**
-- 🤖 Generative AI & Large Language Models
-- 🕸️ Agentic AI & Multi-Agent Systems
-- 🔍 Explainable AI (XAI)
-- 👁️ Computer Vision
-- 🔐 AI for Cybersecurity
+- Generative AI & Large Language Models
+- Agentic AI & Multi-Agent Systems
+- Explainable AI (XAI)
+- Computer Vision
+- AI for Cybersecurity
 
-🚧 &nbsp;**Currently building:** &nbsp;`MedAgentix AI`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Multi-agent clinical decision support system
+**Education:** R. C. Patel Institute of Technology, Shirpur &nbsp;|&nbsp; `2023 – 2027` &nbsp;|&nbsp; `CGPA: 9.31 / 10`
 
-💡 &nbsp;**My philosophy:**
 > *"Don't just use AI. Build with it. Break it. Rebuild it better."*
 
 <br clear="right"/>
 
-<div align="center">
-
-| 📌 Institute | 📍 Location | 🏅 CGPA | 📅 Batch | 🎯 Domain |
-|:---:|:---:|:---:|:---:|:---:|
-| RCPIT, Shirpur | Maharashtra, India | **9.31 / 10** | 2023 – 2027 | AI · ML · Gen AI |
-
-</div>
+| Institute | Location | CGPA | Batch | Domain |
+|:---|:---|:---:|:---:|:---|
+| RCPIT, Shirpur | Maharashtra, India | 9.31 / 10 | 2023 – 2027 | AI · ML · Gen AI |
 
 ---
 
