@@ -173,15 +173,15 @@ I build AI systems that are not just performant, but interpretable and trustwort
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sayalij1609&show_icons=true&hide_border=true&theme=transparent&bg_color=0d0d1a&title_color=c026d3&icon_color=f472b6&text_color=fce7f3&ring_color=c026d3&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayalij1609&layout=compact&hide_border=true&theme=transparent&bg_color=0d0d1a&title_color=c026d3&text_color=fce7f3&langs_count=6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sayalij1609&show_icons=true&hide_border=true&theme=transparent&bg_color=0d0d1a&title_color=c026d3&icon_color=f472b6&text_color=fce7f3&ring_color=c026d3&include_all_commits=true&count_private=true&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayalij1609&layout=compact&hide_border=true&theme=transparent&bg_color=0d0d1a&title_color=c026d3&text_color=fce7f3&langs_count=6&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayalij1609&theme=material-palenight&hide_border=true&background=0d0d1a&ring=c026d3&fire=f472b6&currStreakLabel=c084fc&sideLabels=c084fc&dates=888" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sayalij1609&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=c084fc&line=c026d3&point=f472b6&area=true&area_color=c026d3" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Sayalij1609&theme=material-palenight&hide_border=true&background=0d0d1a&ring=c026d3&fire=f472b6&currStreakLabel=c084fc&sideLabels=c084fc&dates=888" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sayalij1609&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=c084fc&line=c026d3&point=f472b6&area=true&area_color=c026d3&cache_seconds=1800" />
 
 </div>
 
