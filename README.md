@@ -4,28 +4,42 @@
 
 <h2>Hey there🖐️! I'm Sayali Jadhav &nbsp;·&nbsp; Welcome to my GitHub Profile.</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=750&height=40&lines=AI+%2F+ML+Engineer+%7C+Generative+AI+%7C+Agentic+Systems;Building+intelligent+systems+that+are+transparent+%26+trustworthy;Currently+building+MedAgentix+AI+%7C+Open+to+Opportunities" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=800&color=2DD4BF&center=true&vCenter=true&multiline=false&width=750&height=40&lines=AI+%2F+ML+Engineer+%7C+Generative+AI+%7C+Agentic+Systems;Building+intelligent+systems+that+are+transparent+%26+trustworthy;Currently+building+MedAgentix+AI+%7C+Open+to+Opportunities" alt="Typing" />
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-2DD4BF?style=flat-square&logo=vercel&logoColor=black)](https://sayalij-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayali-jadhav-b4263827b)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sayalij1609)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sayalijadhav162005@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/jsaya/)
+[![Gmail](https://img.shields.io/badge/Gmail-FBBF24?style=flat-square&logo=gmail&logoColor=black)](mailto:sayalijadhav162005@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FB7185?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/jsaya/)
 &nbsp;&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=Sayalij1609&color=c026d3&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Sayalij1609&color=2dd4bf&style=flat-square&label=Profile+Views)
 
 </div>
 
+<div align="center">
 
----
-## 👩‍💻About Me
+```
+> whoami
+Sayali Jadhav — AI/ML Engineer building agentic, explainable, and RAG-driven systems.
+> status
+Final-year B.Tech (AI & ML) · GATE DA 2026 AIR 10584 · Open to opportunities
+```
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,50:FBBF24,100:FB7185&height=3&width=800"/>
+</div>
+
+## 👩‍💻 About Me
 
 <img align="right" width="360" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e"/>
 
-I'm a B.Tech student specializing in Artificial Intelligence & Machine Learning at R. C. Patel Institute of Technology, Shirpur (Batch 2023–2027), with a CGPA of 9.31/10.
+I'm a B.Tech student specializing in Artificial Intelligence & Machine Learning at R. C. Patel Institute of Technology, Shirpur (Batch 2023–2027), with a CGPA of 9.26/10.
 
 I build AI systems that are not just performant, but interpretable and trustworthy — my work spans Generative AI, Agentic Architectures, and Explainable AI. I'm currently developing **MedAgentix AI**, a multi-agent clinical decision support system that combines LLMs, RAG pipelines, and XAI to deliver transparent, explainable medical recommendations.
 
-**🎯Areas of focus:**
+**🎯 Areas of focus:**
 
 - Generative AI & Large Language Models
 - Agentic AI & Multi-Agent Systems
@@ -41,7 +55,7 @@ I build AI systems that are not just performant, but interpretable and trustwort
 
 | Institute | Location | CGPA | Batch | Domain |
 |:---|:---|:---:|:---:|:---|
-| RCPIT, Shirpur | Maharashtra, India | 9.31 / 10 | 2023 – 2027 | AI · ML · Gen AI |
+| RCPIT, Shirpur | Maharashtra, India | 9.26 / 10 | 2023 – 2027 | AI · ML · Gen AI |
 
 ---
 
@@ -56,10 +70,10 @@ I build AI systems that are not just performant, but interpretable and trustwort
 
 > AI-driven traffic signal control using YOLO + Double DQN Reinforcement Learning for real-time adaptive signal timing.
 
-![YOLO](https://img.shields.io/badge/YOLO-00FFAB?style=flat-square&logoColor=black)
-![DQN](https://img.shields.io/badge/DQN-c026d3?style=flat-square&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-2DD4BF?style=flat-square&logoColor=black)
+![DQN](https://img.shields.io/badge/DQN-FBBF24?style=flat-square&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-FB7185?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0EA5E9?style=flat-square&logo=python&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -69,14 +83,30 @@ I build AI systems that are not just performant, but interpretable and trustwort
 
 > Multi-agent clinical decision support system using LLMs + RAG + XAI for transparent, explainable medical recommendations.
 
-![LLMs](https://img.shields.io/badge/LLMs-f59e0b?style=flat-square&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG-10b981?style=flat-square&logoColor=white)
-![XAI](https://img.shields.io/badge/XAI-e11d48?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-2DD4BF?style=flat-square&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-FBBF24?style=flat-square&logoColor=black)
+![XAI](https://img.shields.io/badge/XAI-FB7185?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0EA5E9?style=flat-square&logoColor=white)
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 🔎 Multi-Agent AI Research Assistant
+**Automated Research Pipeline** 🤖
+
+> A multi-agent system built with LangChain that automates information retrieval and report generation — from web search to structured, context-aware summaries.
+> - Integrated the **Grok API** for context-aware summarization and structured research reports
+> - Implemented live web search & content extraction using **DuckDuckGo Search** + **BeautifulSoup**
+> - Orchestrated multi-agent coordination for end-to-end research automation
+
+![LangChain](https://img.shields.io/badge/LangChain-2DD4BF?style=flat-square&logoColor=black)
+![Grok API](https://img.shields.io/badge/Grok%20API-FBBF24?style=flat-square&logoColor=black)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FB7185?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0EA5E9?style=flat-square&logo=python&logoColor=white)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🕵️ XAI Social Engineering Simulator
@@ -84,12 +114,14 @@ I build AI systems that are not just performant, but interpretable and trustwort
 
 > AI-powered simulation platform to model, detect, and explain social engineering attacks. Built with Flask, Ollama, scikit-learn + XAI insights.
 
-![XAI](https://img.shields.io/badge/XAI-e11d48?style=flat-square&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8b5cf6?style=flat-square&logoColor=white)
+![XAI](https://img.shields.io/badge/XAI-2DD4BF?style=flat-square&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-FBBF24?style=flat-square&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-FB7185?style=flat-square&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-0EA5E9?style=flat-square&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🖐️ Hand Gesture Desktop Controller
@@ -97,9 +129,19 @@ I build AI systems that are not just performant, but interpretable and trustwort
 
 > Real-time gesture recognition for desktop control — scroll, click, app switching via webcam using MediaPipe + OpenCV.
 
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-2DD4BF?style=flat-square&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-FBBF24?style=flat-square&logoColor=black)
+![Python](https://img.shields.io/badge/Python-0EA5E9?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 More on my Portfolio
+**Full Case Studies & Write-ups** ✨
+
+> Deep dives into architecture decisions, dataset challenges, and lessons learned across all projects live on my portfolio site.
+
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-2DD4BF?style=flat-square&logo=vercel&logoColor=black)](https://sayalij-portfolio.vercel.app/)
 
 </td>
 </tr>
@@ -111,59 +153,118 @@ I build AI systems that are not just performant, but interpretable and trustwort
 
 <div align="center">
 
-### 🖥️ Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<table>
+<tr>
+<th align="left" width="22%">🖥️&nbsp; Languages</th>
+<td>
 
-### 🧠 AI / ML / Generative AI
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-c026d3?style=for-the-badge&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-f59e0b?style=for-the-badge&logo=huggingface&logoColor=black)
-![NLP](https://img.shields.io/badge/NLP-10b981?style=for-the-badge&logo=spacy&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![XAI](https://img.shields.io/badge/XAI-e11d48?style=for-the-badge&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0ea5e9?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-8b5cf6?style=for-the-badge&logoColor=white)
-![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-f97316?style=for-the-badge&logoColor=white)
-![Image Processing](https://img.shields.io/badge/Image%20Processing-06b6d4?style=for-the-badge&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2DD4BF?style=for-the-badge&logo=python&logoColor=black)
+![Java](https://img.shields.io/badge/Java-FBBF24?style=for-the-badge&logo=openjdk&logoColor=black)
+![C](https://img.shields.io/badge/C-FB7185?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0EA5E9?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2DD4BF?style=for-the-badge&logo=typescript&logoColor=black)
 
-### 📦 Libraries & Frameworks
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-2d6a4f?style=for-the-badge&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+</td>
+</tr>
+<tr>
+<th align="left">🧠&nbsp; AI · ML · Vision</th>
+<td>
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector%20DBs-c026d3?style=for-the-badge&logo=pinecone&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FBBF24?style=for-the-badge&logo=pytorch&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FB7185?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0EA5E9?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-2DD4BF?style=for-the-badge&logo=opencv&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-FBBF24?style=for-the-badge&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-FB7185?style=for-the-badge&logoColor=white)
 
-### 🛠️ Tools & Technologies
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![API Integration](https://img.shields.io/badge/API%20Integration-0ea5e9?style=for-the-badge&logo=postman&logoColor=white)
+</td>
+</tr>
+<tr>
+<th align="left">⚙️&nbsp; Frameworks & Backend</th>
+<td>
 
-### 🧮 Core CS Concepts
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-6d28d9?style=for-the-badge&logoColor=white)
-![OS](https://img.shields.io/badge/Operating%20Systems-374151?style=for-the-badge&logo=linux&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-0369a1?style=for-the-badge&logo=databricks&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0EA5E9?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-2DD4BF?style=for-the-badge&logo=fastapi&logoColor=black)
+![Django](https://img.shields.io/badge/Django-FBBF24?style=for-the-badge&logo=django&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-FB7185?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0EA5E9?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-2DD4BF?style=for-the-badge&logo=nextdotjs&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<th align="left">🗄️&nbsp; Databases</th>
+<td>
+
+![MySQL](https://img.shields.io/badge/MySQL-FBBF24?style=for-the-badge&logo=mysql&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-FB7185?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20DBs-0EA5E9?style=for-the-badge&logo=pinecone&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<th align="left">🛠️&nbsp; Tools & Platforms</th>
+<td>
+
+![VS Code](https://img.shields.io/badge/VS%20Code-2DD4BF?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+![Git](https://img.shields.io/badge/Git-FBBF24?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-FB7185?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0EA5E9?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2DD4BF?style=for-the-badge&logo=docker&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-FBBF24?style=for-the-badge&logo=jupyter&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🧮 DSA**
+<br/>
+<sub>Arrays · Trees · Graphs<br/>Greedy · DP</sub>
+
+</td>
+<td align="center" width="25%">
+
+**🐧 Operating Systems**
+<br/>
+<sub>Process Mgmt · Memory<br/>Scheduling</sub>
+
+</td>
+<td align="center" width="25%">
+
+**🗃️ DBMS**
+<br/>
+<sub>Normalization · SQL<br/>Transactions</sub>
+
+</td>
+<td align="center" width="25%">
+
+**🔍 Agentic & XAI**
+<br/>
+<sub>Multi-Agent Systems<br/>Explainability</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+[![NPTEL ML](https://img.shields.io/badge/NPTEL-Introduction%20to%20Machine%20Learning-2DD4BF?style=for-the-badge&logoColor=black)](#)
+&nbsp;
+[![NPTEL LLM](https://img.shields.io/badge/NPTEL-Introduction%20to%20Large%20Language%20Models-FBBF24?style=for-the-badge&logoColor=black)](#)
+&nbsp;
+[![Infosys NLP](https://img.shields.io/badge/Infosys%20Springboard-Natural%20Language%20Processing-FB7185?style=for-the-badge&logoColor=white)](#)
 
 </div>
 
@@ -173,16 +274,20 @@ I build AI systems that are not just performant, but interpretable and trustwort
 
 <div align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Sayalij1609&show_icons=true&hide_border=true&theme=transparent&bg_color=0d0d1a&title_color=c026d3&icon_color=f472b6&text_color=fce7f3&ring_color=c026d3&include_all_commits=true" />
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayalij1609&layout=compact&hide_border=true&theme=transparent&bg_color=0d0d1a&title_color=c026d3&text_color=fce7f3&langs_count=6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sayalij1609&show_icons=true&hide_border=true&theme=transparent&bg_color=0A0E14&title_color=2DD4BF&icon_color=FBBF24&text_color=E2E8F0&ring_color=2DD4BF&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayalij1609&layout=compact&hide_border=true&theme=transparent&bg_color=0A0E14&title_color=2DD4BF&text_color=E2E8F0&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-<img width="50%" src="https://streak-stats.demolab.com/?user=Sayalij1609&theme=material-palenight&hide_border=true&background=0d0d1a&ring=c026d3&fire=f472b6&currStreakLabel=c084fc&sideLabels=c084fc&dates=888" />
-<img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sayalij1609&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=c084fc&line=c026d3&point=f472b6&area=true&area_color=c026d3" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Sayalij1609&theme=dark&hide_border=true&background=0A0E14&ring=2DD4BF&fire=FBBF24&currStreakLabel=FB7185&sideLabels=E2E8F0&dates=888888" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sayalij1609&theme=react-dark&hide_border=true&bg_color=0A0E14&color=E2E8F0&line=2DD4BF&point=FBBF24&area=true&area_color=2DD4BF" />
 
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sayalij1609&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
 
 <div align="center">
@@ -254,11 +359,11 @@ Consistent Competitive Problem Solver
 
 [![GATE](https://img.shields.io/badge/GATE%20DA%202026-AIR%2010584-FFD700?style=for-the-badge&logoColor=black)](https://gate2026.iitr.ac.in/)
 &nbsp;
-[![ISF](https://img.shields.io/badge/ISF%20Junicorn%20Summit-Dubai-c026d3?style=for-the-badge&logoColor=white)](#)
+[![ISF](https://img.shields.io/badge/ISF%20Junicorn%20Summit-Dubai-2DD4BF?style=for-the-badge&logoColor=black)](#)
 &nbsp;
-[![MindSpark](https://img.shields.io/badge/COEP%20MindSpark-Hackathon%20Qualified-10b981?style=for-the-badge&logoColor=white)](#)
+[![MindSpark](https://img.shields.io/badge/COEP%20MindSpark-Hackathon%20Qualified-FBBF24?style=for-the-badge&logoColor=black)](#)
 &nbsp;
-[![IIT](https://img.shields.io/badge/Genathon-IIT%20Nagpur-e11d48?style=for-the-badge&logoColor=white)](#)
+[![IIT](https://img.shields.io/badge/Genathon-IIT%20Nagpur-FB7185?style=for-the-badge&logoColor=white)](#)
 
 </div>
 
@@ -342,13 +447,13 @@ I believe the future of AI is not just about **what** models can do, but about m
 
 <div align="center">
 
-[![AI/ML Internships](https://img.shields.io/badge/AI%2FML%20Internships-Open-c026d3?style=for-the-badge&logo=briefcase&logoColor=white)](#)
+[![AI/ML Internships](https://img.shields.io/badge/AI%2FML%20Internships-Open-2DD4BF?style=for-the-badge&logoColor=black)](#)
 &nbsp;
-[![GenAI Projects](https://img.shields.io/badge/Generative%20AI%20Projects-Open-0ea5e9?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![GenAI Projects](https://img.shields.io/badge/Generative%20AI%20Projects-Open-FBBF24?style=for-the-badge&logoColor=black)](#)
 &nbsp;
-[![Research](https://img.shields.io/badge/Research%20Collaborations-Open-10b981?style=for-the-badge&logo=academia&logoColor=white)](#)
+[![Research](https://img.shields.io/badge/Research%20Collaborations-Open-FB7185?style=for-the-badge&logoColor=white)](#)
 &nbsp;
-[![Hackathons](https://img.shields.io/badge/Hackathons%20%26%20Challenges-Open-f59e0b?style=for-the-badge&logo=devpost&logoColor=black)](#)
+[![Hackathons](https://img.shields.io/badge/Hackathons%20%26%20Challenges-Open-0EA5E9?style=for-the-badge&logoColor=white)](#)
 
 > #### 📬 *Let's build something impactful together — reach out anytime!*
 
@@ -360,23 +465,27 @@ I believe the future of AI is not just about **what** models can do, but about m
 
 <div align="center">
 
+### 🧑‍🎨 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-2DD4BF?style=for-the-badge&logo=vercel&logoColor=black)](https://sayalij-portfolio.vercel.app/)
+
 ### 💬 Social & Professional
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayali-jadhav-b4263827b)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20%40Sayalij1609-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sayalij1609)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Drop%20Me%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayalijadhav162005@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Drop%20Me%20a%20Mail-FBBF24?style=for-the-badge&logo=gmail&logoColor=black)](mailto:sayalijadhav162005@gmail.com)
 
 ### 💻 Competitive Coding
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jsaya/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-My%20Profile-FB7185?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/jsaya/)
 &nbsp;
 [![CodeChef](https://img.shields.io/badge/CodeChef-My%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sayali_07019)
 &nbsp;
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-My%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sayalijadhq7um)
 &nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-My%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/sayalij1609)
+[![HackerRank](https://img.shields.io/badge/HackerRank-My%20Profile-0EA5E9?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sayalij1609)
 
 ---
 
@@ -393,4 +502,4 @@ I believe the future of AI is not just about **what** models can do, but about m
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0030,50:9b059b,100:f472b6&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8%20Star%20something%20if%20you%20liked%20it&fontSize=18&fontColor=fce7f3&animation=twinkling&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,50:2DD4BF,100:FB7185&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8%20Star%20something%20if%20you%20liked%20it&fontSize=18&fontColor=0A0E14&animation=twinkling&fontAlignY=65"/>
