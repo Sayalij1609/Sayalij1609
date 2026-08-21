@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=800&color=2DD4BF&center=true&vCenter=true&multiline=false&width=750&height=40&lines=AI+%2F+ML+Engineer+%7C+Generative+AI+%7C+Agentic+Systems;Building+intelligent+systems+that+are+transparent+%26+trustworthy;Currently+building+MedAgentix+AI+%7C+Open+to+Opportunities" alt="Typing" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-2DD4BF?style=flat-square&logo=vercel&logoColor=black)](https://sayalij-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-2DD4BF?style=flat-square&logo=vercel&logoColor=black)](https://sayaliportfolio-eight.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayali-jadhav-b4263827b)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sayalij1609)
 [![Gmail](https://img.shields.io/badge/Gmail-FBBF24?style=flat-square&logo=gmail&logoColor=black)](mailto:sayalijadhav162005@gmail.com)
@@ -467,7 +467,7 @@ I believe the future of AI is not just about **what** models can do, but about m
 
 ### 🧑‍🎨 Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-2DD4BF?style=for-the-badge&logo=vercel&logoColor=black)](https://sayalij-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-2DD4BF?style=for-the-badge&logo=vercel&logoColor=black)](https://sayaliportfolio-eight.vercel.app/`)
 
 ### 💬 Social & Professional
 
