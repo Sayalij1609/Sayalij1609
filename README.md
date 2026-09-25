@@ -78,7 +78,7 @@ I build AI systems that are not just performant, but interpretable and trustwort
 </td>
 <td width="50%" valign="top">
 
-### 🏥 MedAgentix AI
+### 🏥 [MedAgentix AI](https://github.com/Sayalij1609/MedAgentix_AI)
 **Active — Flagship Project** 🔬
 
 > Multi-agent clinical decision support system using LLMs + RAG + XAI for transparent, explainable medical recommendations.
@@ -93,7 +93,7 @@ I build AI systems that are not just performant, but interpretable and trustwort
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 Multi-Agent AI Research Assistant
+### 🔎 [Multi-Agent AI Research Assistant](https://github.com/Sayalij1609/Multi-Agent-Research-System)
 **Automated Research Pipeline** 🤖
 
 > A multi-agent system built with LangChain that automates information retrieval and report generation — from web search to structured, context-aware summaries.
@@ -109,7 +109,7 @@ I build AI systems that are not just performant, but interpretable and trustwort
 </td>
 <td width="50%" valign="top">
 
-### 🕵️ XAI Social Engineering Simulator
+### 🕵️ [XAI Social Engineering Simulator](https://github.com/Sayalij1609/Social_engineering_awareness_simulator)
 **Feb 2026** 🛡️
 
 > AI-powered simulation platform to model, detect, and explain social engineering attacks. Built with Flask, Ollama, scikit-learn + XAI insights.
@@ -145,50 +145,131 @@ I build AI systems that are not just performant, but interpretable and trustwort
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [DocuMind](https://github.com/Sayalij1609/DocuMind)
+**Intelligent Document Processing Platform** 📄
+
+> Enterprise-grade document intelligence — OCR extraction, ML classification, field validation, anomaly & duplicate detection, RAG-powered Q&A, and automated PDF reporting.
+
+![OCR](https://img.shields.io/badge/OCR-2DD4BF?style=flat-square&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-FBBF24?style=flat-square&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq%20LLM-FB7185?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0EA5E9?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🪺 [FlowNest — Productivity Hub](https://github.com/Sayalij1609/FlowNest_Productivity_Hub_New_Version)
+**Full-Stack Productivity Workspace** ✅
+
+> Manage tasks, notes, habits, and calendar with real-time analytics — a glassmorphic React + Flask productivity suite deployed on Render.
+
+![React](https://img.shields.io/badge/React-2DD4BF?style=flat-square&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-FBBF24?style=flat-square&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FB7185?style=flat-square&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-0EA5E9?style=flat-square&logoColor=white)
+
+</td>
+</tr>
 </table>
 
 ---
 
-## ⚡ Tech Arsenal
+## 📂 Project Repositories
+
+<div align="center">
+
+| # | Project | Description | Tech Stack |
+|:---:|:---|:---|:---|
+| 1 | 🔎 **[Multi-Agent Research System](https://github.com/Sayalij1609/Multi-Agent-Research-System)** | Autonomous multi-agent research platform — 4 collaborating AI agents search, scrape, synthesize, and audit web intelligence into downloadable Word / PDF / Markdown reports. | `React` `Vite` `FastAPI` `Python` `LangChain` |
+| 2 | 🪺 **[FlowNest — Productivity Hub](https://github.com/Sayalij1609/FlowNest_Productivity_Hub_New_Version)** | Full-stack productivity workspace with tasks, notes, habit tracking, calendar, and analytics in a glassmorphic UI. | `React (Vite)` `Flask` `JWT` `PostgreSQL` `Render` |
+| 3 | 🧠 **[DocuMind](https://github.com/Sayalij1609/DocuMind)** | Enterprise document intelligence platform — OCR extraction, ML classification, field validation, anomaly & duplicate detection, RAG-powered Q&A, and automated PDF reporting. | `Tesseract OCR` `Groq LLM` `TF-IDF` `Logistic Regression` `RAG` |
+| 4 | 🏥 **[MedAgentix AI](https://github.com/Sayalij1609/MedAgentix_AI)** | Multi-agent clinical decision support system — 8 specialized agents, ML ensemble + LangGraph orchestration + Meditron-7B fallback, generating separate patient and doctor reports. | `LangGraph` `ClinicalBERT` `Random Forest` `XGBoost` `LightGBM` `Meditron-7B` |
+| 5 | ✨ **[SJ's Portfolio](https://github.com/Sayalij1609/SJ-s_Portfolio)** | Personal developer portfolio — dark-themed, interactive particle background, categorized project showcase, and experience timeline. [Live Site ↗](https://sayalijadhav.vercel.app/) | `React` `Vite` `JavaScript` `CSS3` |
+| 6 | 📰 **[NEWS_AI](https://github.com/Sayalij1609/NEWS_AI)** | Local-first AI news agent — fetches live articles and generates summaries, plain-language explanations, sentiment, and key points using a local LLM. | `Python` `FastAPI` `Flask` `Ollama (llama3.2)` |
+| 7 | 🕵️ **[Social Engineering Awareness Simulator](https://github.com/Sayalij1609/Social_engineering_awareness_simulator)** | Flask-based training platform that generates realistic phishing/vishing/pretexting scenarios with AI, helping users learn to recognize social engineering attacks. | `Flask` `Ollama` `scikit-learn` `XAI` |
+| 8 | 🖼️ **[VisionCap — Image Captioning (CNN + LSTM)](https://github.com/Sayalij1609/VisionCap_Image-captioning-using-CNN)** | Multimodal image captioning system built from scratch with a ResNet50 CNN encoder and LSTM decoder, trained on the Flickr8k dataset. | `PyTorch` `ResNet50` `LSTM` `Flask` |
+
+</div>
+
+> 💡 Each project name links directly to its live GitHub repository — click through for setup instructions, architecture diagrams, and full source code. This table is updated as new projects ship.
+
+---
+
+## ⚡ Technical Skills
 
 <div align="center">
 
 <table>
 <tr>
-<th align="left" width="22%">🖥️&nbsp; Languages</th>
+<th align="left" width="22%">🖥️&nbsp; Programming Languages</th>
 <td>
 
 ![Python](https://img.shields.io/badge/Python-2DD4BF?style=for-the-badge&logo=python&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-FBBF24?style=for-the-badge&logo=openjdk&logoColor=black)
 ![C](https://img.shields.io/badge/C-FB7185?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0EA5E9?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-2DD4BF?style=for-the-badge&logo=typescript&logoColor=black)
 
 </td>
 </tr>
 <tr>
-<th align="left">🧠&nbsp; AI · ML · Vision</th>
+<th align="left">🤖&nbsp; LLM & Generative AI</th>
 <td>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-FBBF24?style=for-the-badge&logo=pytorch&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FB7185?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0EA5E9?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-2DD4BF?style=for-the-badge&logo=opencv&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs-2DD4BF?style=for-the-badge&logoColor=black)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FBBF24?style=for-the-badge&logoColor=black)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FB7185?style=for-the-badge&logoColor=white)
+![LLM API Integration](https://img.shields.io/badge/LLM%20API%20Integration-0EA5E9?style=for-the-badge&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-2DD4BF?style=for-the-badge&logoColor=black)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-FBBF24?style=for-the-badge&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-FB7185?style=for-the-badge&logoColor=white)
+![Tool Calling](https://img.shields.io/badge/Tool%20Calling-0EA5E9?style=for-the-badge&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<th align="left">🧠&nbsp; AI / ML</th>
+<td>
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2DD4BF?style=for-the-badge&logoColor=black)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FBBF24?style=for-the-badge&logoColor=black)
+![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-FB7185?style=for-the-badge&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0EA5E9?style=for-the-badge&logoColor=white)
+![XAI](https://img.shields.io/badge/XAI-2DD4BF?style=for-the-badge&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<th align="left">🧩&nbsp; LLM & AI Frameworks</th>
+<td>
+
 ![LangChain](https://img.shields.io/badge/LangChain-FBBF24?style=for-the-badge&logoColor=black)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FB7185?style=for-the-badge&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-0EA5E9?style=for-the-badge&logoColor=white)
+![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-2DD4BF?style=for-the-badge&logoColor=black)
+![MCP](https://img.shields.io/badge/MCP-FBBF24?style=for-the-badge&logoColor=black)
 
 </td>
 </tr>
 <tr>
-<th align="left">⚙️&nbsp; Frameworks & Backend</th>
+<th align="left">🔍&nbsp; Retrieval & Vector Search</th>
 <td>
 
+![Embeddings](https://img.shields.io/badge/Embeddings-FB7185?style=for-the-badge&logoColor=white)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-0EA5E9?style=for-the-badge&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-2DD4BF?style=for-the-badge&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FBBF24?style=for-the-badge&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<th align="left">⚙️&nbsp; Backend & APIs</th>
+<td>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-FB7185?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-0EA5E9?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-2DD4BF?style=for-the-badge&logo=fastapi&logoColor=black)
-![Django](https://img.shields.io/badge/Django-FBBF24?style=for-the-badge&logo=django&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-FB7185?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-0EA5E9?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-2DD4BF?style=for-the-badge&logo=nextdotjs&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-2DD4BF?style=for-the-badge&logoColor=black)
 
 </td>
 </tr>
@@ -196,22 +277,25 @@ I build AI systems that are not just performant, but interpretable and trustwort
 <th align="left">🗄️&nbsp; Databases</th>
 <td>
 
-![MySQL](https://img.shields.io/badge/MySQL-FBBF24?style=for-the-badge&logo=mysql&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-FB7185?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector%20DBs-0EA5E9?style=for-the-badge&logo=pinecone&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FBBF24?style=for-the-badge&logo=postgresql&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-FB7185?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0EA5E9?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-2DD4BF?style=for-the-badge&logo=sqlite&logoColor=black)
 
 </td>
 </tr>
 <tr>
-<th align="left">🛠️&nbsp; Tools & Platforms</th>
+<th align="left">🛠️&nbsp; Tools & Technologies</th>
 <td>
 
-![VS Code](https://img.shields.io/badge/VS%20Code-2DD4BF?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-FBBF24?style=for-the-badge&logo=git&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-FB7185?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0EA5E9?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2DD4BF?style=for-the-badge&logo=docker&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-FBBF24?style=for-the-badge&logo=jupyter&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-0EA5E9?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-2DD4BF?style=for-the-badge&logo=amazonaws&logoColor=black)
+![Render](https://img.shields.io/badge/Render-FBBF24?style=for-the-badge&logo=render&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-FB7185?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-0EA5E9?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-2DD4BF?style=for-the-badge&logo=postman&logoColor=black)
 
 </td>
 </tr>
