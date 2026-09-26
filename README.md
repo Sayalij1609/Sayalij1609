@@ -129,10 +129,6 @@ I build AI systems that are not just performant, but interpretable and trustwort
 
 > A multi-agent system built with LangChain that automates information retrieval and report generation — from web search to structured, context-aware summaries.
 
-> * Integrated the **Grok API** for context-aware summarization and structured research reports
-> * Implemented live web search & content extraction using **DuckDuckGo Search** + **BeautifulSoup**
-> * Orchestrated multi-agent coordination for end-to-end research automation
-
 ![LangChain](https://img.shields.io/badge/LangChain-06B6D4?style=flat-square\&logo=langchain\&logoColor=white)
 ![Grok API](https://img.shields.io/badge/Grok%20API-8B5CF6?style=flat-square)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-EC4899?style=flat-square)
@@ -175,13 +171,16 @@ I build AI systems that are not just performant, but interpretable and trustwort
 
 <td width="50%" valign="top">
 
-## 🌐 More on my Portfolio
+## 🪺 [FlowNest — Productivity Hub](https://github.com/Sayalij1609/FlowNest_Productivity_Hub_New_Version)
 
-**Full Case Studies & Write-ups** ✨
+**Full-Stack Productivity Workspace** ✅
 
-> Deep dives into architecture decisions, dataset challenges, and lessons learned across all projects live on my portfolio site.
+> Manage tasks, notes, habits, and calendar with real-time analytics — a glassmorphic React + Flask productivity suite deployed on Render.
 
-[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-67E8F9?style=for-the-badge\&logo=vercel\&logoColor=0B1120)](https://sayalij-portfolio.vercel.app/)
+![React](https://img.shields.io/badge/React-06B6D4?style=flat-square\&logo=react\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-8B5CF6?style=flat-square\&logo=flask\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EC4899?style=flat-square\&logo=postgresql\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-0EA5E9?style=flat-square)
 
 </td>
 
@@ -206,16 +205,13 @@ I build AI systems that are not just performant, but interpretable and trustwort
 
 <td width="50%" valign="top">
 
-## 🪺 [FlowNest — Productivity Hub](https://github.com/Sayalij1609/FlowNest_Productivity_Hub_New_Version)
+## 🌐 More on my Portfolio
 
-**Full-Stack Productivity Workspace** ✅
+**Full Case Studies & Write-ups** ✨
 
-> Manage tasks, notes, habits, and calendar with real-time analytics — a glassmorphic React + Flask productivity suite deployed on Render.
+> Deep dives into architecture decisions, dataset challenges, and lessons learned across all projects live on my portfolio site.
 
-![React](https://img.shields.io/badge/React-06B6D4?style=flat-square\&logo=react\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-8B5CF6?style=flat-square\&logo=flask\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EC4899?style=flat-square\&logo=postgresql\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-0EA5E9?style=flat-square)
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-67E8F9?style=for-the-badge\&logo=vercel\&logoColor=0B1120)](https://sayalij-portfolio.vercel.app/)
 
 </td>
 
