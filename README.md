@@ -8,7 +8,7 @@
 
 ### `AI / ML Engineer` · `Generative AI` · `Agentic Systems`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=800&color=67E8F9&center=true&vCenter=true&multiline=false&width=800&height=45&lines=AI+%2F+ML+Engineer+%7C+Generative+AI+%7C+Agentic+Systems;Building+intelligent+systems+that+are+transparent+%26+trustworthy;Currently+building+MedAgentix+AI+%7C+Open+to+Opportunities" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2200&pause=800&color=67E8F9&center=true&vCenter=true&multiline=false&width=800&height=45&lines=Python+Developer+%7C+AI%2FML+Engineer;Software+Developer+%7C+Agentic+AI+Developer;Generative+AI+%7C+RAG+%7C+Multi-Agent+Systems" alt="Typing Animation"/>
 
 <br/>
 
